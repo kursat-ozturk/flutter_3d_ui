@@ -1,16 +1,17 @@
-# flutter_3d_ui
+# Flutter 3D UI
 
-A new Flutter project.
+## Assets:
+- @komov https://sketchfab.com/3d-models/walking-robot-bcc389f59ac747eeb7bf377c21b24d78
 
-## Getting Started
+## 🛠 Skills:
+- Flutter - https://docs.flutter.dev/
+- Dart - https://dart.dev/guides
 
-This project is a starting point for a Flutter application.
+## Packages:
+- o3d : https://pub.dev/packages/o3d
 
-A few resources to get you started if this is your first Flutter project:
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Video:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/kursat-ozturk/flutter_3d_ui/assets/69029656/ed611487-e844-4181-bcdd-d230cc18e928
